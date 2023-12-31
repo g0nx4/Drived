@@ -50,7 +50,3 @@ time.sleep(0.3)
 print(f"Motor: {r['data']['engine']}")
 
 
-
-#print(response_json["data"]["year"])
-#print(response_json["data"]["owner"]["fullname"])
-
