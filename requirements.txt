@@ -1,2 +1,2 @@
-pip install requests==2.31.0
-pip install jsons==1.6.3
+requests==2.31.0
+jsons==1.6.3
